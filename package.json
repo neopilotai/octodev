@@ -218,7 +218,6 @@
     "use-debounce": "^10.0.4",
     "use-sync-external-store": "latest",
     "vaul": "latest",
-    "virtual:uno.css": "latest",
     "vite-plugin-node-polyfills": "latest",
     "yaml": "latest",
     "zod": "^3.24.1",
